@@ -1,0 +1,21 @@
+
+.negro {
+    background-color: black;
+    color: white;
+    width: 320px;
+    height: 320px;
+    
+   
+}
+.rojo {
+    background-color: rgb(224, 80, 80);
+    color: rgb(255, 236, 68);
+    width: 320px;
+    height: 320px;
+   
+}
+#principal {
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
