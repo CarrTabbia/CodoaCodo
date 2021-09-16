@@ -1,0 +1,6 @@
+img{ 
+    /* en este caso al ser desde boostrap carta y se imagenes de internet cada imagen tiene un tamaño distinto, por ende hay que arreglarlo previamente */
+    height: 400px;
+    /* width: 50px; */
+padding: 10px;
+}
