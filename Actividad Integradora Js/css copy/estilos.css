@@ -1,0 +1,19 @@
+
+.imagen1{
+    filter: brightness(50%);
+   height: 50%;
+}
+.card1{
+    background-color: transparent;
+    
+}
+#PreguntaInput{
+    height: 150px;
+    text-align: start;
+}
+.btn-codo{
+   background-color: #97c93e;
+   color: white;
+   width: 98%;
+   margin: 2%;
+}
