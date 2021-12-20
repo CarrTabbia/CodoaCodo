@@ -1,0 +1,4 @@
+PARA LUIS:
+HAY UN PEQUEÑO FRONT QUE DEBERÍA CONECTARSE CON EL BACK. ESPERO QUE FUNCIONE EN TU PC
+http://localhost:8080/escuelaDigital/Vistas/Front/front.jsp
+
